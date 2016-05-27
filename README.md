@@ -1,5 +1,5 @@
 # PDF-Converter
-Convert documents of different formats including images to PDF using GroupDocs.Conversion .NET PDF Library. Step for converting any of following file formats to PDF using  GroupDocs.Conversion C# PDF library with asp.net web forms
+Convert documents of different formats including images to PDF using GroupDocs.Conversion .NET PDF Library. Step for converting any of supported file formats to PDF using  GroupDocs.Conversion C# PDF library with asp.net web forms
 
 # System Requirements
 .Net Framework 4.5
