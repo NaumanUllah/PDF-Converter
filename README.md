@@ -27,8 +27,6 @@ Visual Studio 13
 
         private string storagePath = @"E:\aspose\"; 
 
-        private string cachePath = @"E:\aspose\convertedFiles\";
-
         private string outputPath = @"E:\aspose\convertedFiles\";
 
 6.	Run project . It will automatically load all files from your directory path you adjusted and will appear like
