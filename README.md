@@ -4,9 +4,7 @@ Convert documents of different formats including images to PDF using GroupDocs.C
 # System Requirements
 
 .Net Framework 4.5
-
 Visual Studio 12 
-
 Visual Studio 13
 
 # Solution Overview
