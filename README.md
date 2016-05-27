@@ -2,8 +2,12 @@
 Convert documents of different formats including images to PDF using GroupDocs.Conversion .NET PDF Library. Step for converting any of supported file formats to PDF using  GroupDocs.Conversion C# PDF library with asp.net web forms
 
 # System Requirements
+
 .Net Framework 4.5
-Visual Studio 12, VS 13
+
+Visual Studio 12 
+
+Visual Studio 13
 
 # Solution Overview
 1.	Download as a zip from https://github.com/NaumanUllah/PDF-Converter
@@ -34,6 +38,9 @@ Visual Studio 12, VS 13
 
 ![promisechains](https://cloud.githubusercontent.com/assets/19569320/15599078/f755351e-23f9-11e6-9de8-e6ca14d7871a.png)
 
-7.	Press convert button to transform files to PDF and bit wait. Files converted will appear in Target files section. Last file not converted error appear at top. Read more detail on its wiki
+7.	Press convert button to transform files to PDF and bit wait. Files converted will appear in Target files section. Last file not converted error appear at top. 
 
 ![promisechains](https://cloud.githubusercontent.com/assets/19569320/15599080/f7f39696-23f9-11e6-8581-8874b59a260d.png)
+
+
+Read more detail on its wiki
